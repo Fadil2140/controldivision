@@ -64,4 +64,3 @@
 
   document.querySelectorAll('main section[id]').forEach(section => sectionObserver.observe(section));
 })();
-
